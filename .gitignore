@@ -1,0 +1,17 @@
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio temporary files
+**/.vs/
+*.user
+*.suo
+
+# Downloaded dependency packages
+**/packages/
+
+# Logs and secrets
+*.log
+.env
+.env.*
+!.env.example

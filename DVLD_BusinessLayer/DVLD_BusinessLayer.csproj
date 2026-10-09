@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DVLD_DataAccessLayer\DVLD_DataAccessLayer.csproj" />
+    <ProjectReference Include="E:\Full Stack Project\DVLD_Full_Project\DVLD_PresentationLayer.csproj" />
+  </ItemGroup>
+
+</Project>
